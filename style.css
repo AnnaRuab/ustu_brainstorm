@@ -1,0 +1,117 @@
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url(/001/blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	 
+	}
+
+a:link { 
+	/*font-weight: black;*/ 
+	text-decoration: none; 
+	/*color: #FFFFFF;*/
+	}
+	
+	
+#container { 
+	background: url(zen-bg.jpg) no-repeat top left; 
+	padding: 0 0 0 0;  
+	margin: 0; 
+	position: relative;
+	}
+	
+	
+	
+
+#linkList {
+	margin: 10px 0 0 8px ; 
+	position: absolute; 
+	top: 0; 
+	/*left: 0;*/
+	background:#9cd4ee 
+
+	
+	/*background: "0.jpeg"*/
+	}
+#linkList2 { 
+	font: 13px verdana, sans-serif; 
+	/*background: transparent url(5.jpeg) top right repeat-y ; */
+	padding: 10px; 
+	/*margin-top: 260px; */
+	min-height:260px;
+	width: 220px; 
+	/*background: #9cd4ee*/
+	}
+#linkList h3.select { 
+	/*background: transparent url(5.jpeg) no-repeat top right; */
+	margin: 0 7px -10px 0; 
+	width: 218px;
+   background: #cbebf6
+	/*height: 161px;*/ 
+	
+	}
+#linkList h3.select span {
+	display:none
+	}
+	
+	
+	/*/////////////////////////////////////////////////////////////*/
+	
+#linkList3 {
+	margin: 10px 0 0 260px ; 
+	position: absolute; 
+	top: 0; 
+	/*left: 0;*/
+	background:#cbebf6 
+
+	
+	/*background: "0.jpeg"*/
+	}
+#linkList4 { 
+	font: 10px verdana, sans-serif; 
+	/*background: transparent url(5.jpeg) top right repeat-y ; */
+	padding: 10px; 
+	/*margin-top: 260px; */
+	
+	width:1070px; 
+	min-height:358px;
+	/*background: #9cd4ee*/
+	}	
+#linkList h2.select { 
+	/*background: transparent url(5.jpeg) no-repeat top right; */
+	margin: 0 7px -10px 0; 
+	width: 870px;
+   background: #cbebf6
+	/*height: 161px;*/ 
+	
+	}
+#linkList h2.select span {
+	display:none
+	}
+	
+	
+	/*//////////////////////////////////*/
+	
+	#linkList5{
+	margin: 10px 0 0 150px ; 
+	position: absolute; 
+	top: 0; 
+	/*left: 0;*/
+	/*background:#cbebf6 */
+
+	
+	/*background: "0.jpeg"*/
+	}
+#linkList6 { 
+	font: 16px verdana, sans-serif; 
+	/*background: transparent url(5.jpeg) top right repeat-y ; */
+	padding: 10px; 
+	/*margin-top: 260px; */
+	color:#0033FF;
+	width:450px; 
+	min-height:358px;
+	/*background: #9cd4ee*/
+	}
+	
